@@ -16,7 +16,7 @@ export default function About() {
           transition={{ duration: 1 }}
           className="display-4 fw-bold text-danger mb-3"
         >
-          About TyreX
+          About Wolf Vanguard Tyre
         </motion.h1>
         <motion.p
           initial={{ opacity: 0 }}
